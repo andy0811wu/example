@@ -1,0 +1,6 @@
+Please run the script with similar commands below:
+
+andy@andy-VirtualBox:~/test20170401/tmp/scripts$ bash replaceTokens.sh ../input/index.html ../conf/test.properties ../output/index.html 
+andy@andy-VirtualBox:~/test20170401/tmp/scripts$ bash replaceTokens.sh ../input/index.html ../conf/prod.properties ../output/index.html 
+
+
